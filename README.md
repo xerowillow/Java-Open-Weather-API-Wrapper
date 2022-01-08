@@ -14,7 +14,7 @@ CurrentWeather weather = api.getCurrentWeather(10001, Units.imperial); //Get cur
 System.out.println(weather.getMain().getTemp()); //Print our results!
 ```
 
-##License:
+## License:
 Copyright (C) 2022 MineAPI
 
 This program is free software: you can redistribute it and/or modify
