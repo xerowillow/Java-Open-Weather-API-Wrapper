@@ -5,6 +5,8 @@ Open Weather Map API wrapper for Java.
 
 This project allows you to seamlessly implement the Open Weather Map API into your projects.
 
+**Note: this repository is not endorsed nor affiliated with OpenWeather and is independently managed by MineAPI**
+
 ## How to use:
 Below you can see a basic application that prints out the temperature in New York.
 ```java
